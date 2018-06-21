@@ -1,0 +1,1 @@
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\TjenesteApp.UWP.csproj;x86

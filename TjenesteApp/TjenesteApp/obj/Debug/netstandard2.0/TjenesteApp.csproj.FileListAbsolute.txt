@@ -1,0 +1,32 @@
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.deps.json
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.dll
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.pdb
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\IOweYou.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\YouOweMe.xaml.g.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.csproj.CoreCompileInputs.cache
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.AssemblyInfoInputs.cache
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.AssemblyInfo.cs
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.dll
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.pdb
+F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.csprojAssemblyReference.cache
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.deps.json
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.dll
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.pdb
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.csprojAssemblyReference.cache
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\IOweYou.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\Views\YouOweMe.xaml.g.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.csproj.CoreCompileInputs.cache
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.AssemblyInfoInputs.cache
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.AssemblyInfo.cs
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.dll
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\obj\Debug\netstandard2.0\TjenesteApp.pdb
