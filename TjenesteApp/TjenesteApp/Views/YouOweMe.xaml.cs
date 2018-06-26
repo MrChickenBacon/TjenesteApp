@@ -32,7 +32,7 @@ namespace TjenesteApp.Views
                 },
                         new Entry
                 {
-                        Text = "Skriv noe her OGSÅ12",
+                        Text = "Skriv noe her OGSÅ123",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },
 
