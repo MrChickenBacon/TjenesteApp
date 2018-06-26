@@ -395,23 +395,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Get Academy\\.nuget\\packages\\": {},
+    "C:\\Users\\Chris\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj",
+      "projectUniqueName": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj",
       "projectName": "TjenesteApp",
-      "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj",
-      "packagesPath": "C:\\Users\\Get Academy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\obj\\",
+      "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj",
+      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
+      "outputPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Get Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
