@@ -802,20 +802,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Get Academy\\.nuget\\packages\\": {}
+    "C:\\Users\\Chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\TjenesteApp.iOS.csproj",
+      "projectUniqueName": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\TjenesteApp.iOS.csproj",
       "projectName": "TjenesteApp.iOS",
-      "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\TjenesteApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Get Academy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\obj\\",
+      "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\TjenesteApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
+      "outputPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Get Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -828,8 +828,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
-              "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
+            "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
+              "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
             }
           }
         }
