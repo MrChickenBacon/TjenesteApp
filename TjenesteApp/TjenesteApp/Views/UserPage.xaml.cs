@@ -23,6 +23,7 @@ namespace TjenesteApp.Views
             Content = new StackLayout()
             {
                 Margin = 20,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
                 Children =
                 {
                         new Label
@@ -31,6 +32,7 @@ namespace TjenesteApp.Views
                         FontSize = 30,
                         HorizontalOptions = LayoutOptions.CenterAndExpand,                       
                 },
+                        
                         new Entry
                 {
                         Placeholder = "Skriv brukernavn her",

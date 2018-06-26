@@ -150,7 +150,10 @@
     <PackageReference Include="Xam.Plugin.SimpleAudioPlayer">
       <Version>1.1.0</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.0.0.561731" />
+    <PackageReference Include="Xamarin.Essentials">
+      <Version>0.7.0.17-preview</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms" Version="3.1.0.583944" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
@@ -160,22 +163,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\NOPE.mp3" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\idntlike.mp3" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\homeicon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\C8qKjfAUMAAi_Nb.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\Work_Mexican_Work.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\work.mp3" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\ioweyouicon.png" />

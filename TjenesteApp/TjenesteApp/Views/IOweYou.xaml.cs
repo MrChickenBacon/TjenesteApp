@@ -1,11 +1,4 @@
-﻿using Plugin.SimpleAudioPlayer;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace TjenesteApp.Views
@@ -13,7 +6,6 @@ namespace TjenesteApp.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class IOweYou : ContentPage
     {
-        private ISimpleAudioPlayer _player = Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer.Current;
         public IOweYou()
         {
             InitializeComponent();
@@ -25,41 +17,30 @@ namespace TjenesteApp.Views
             Content = new StackLayout()
             {
                 Margin = 20,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
                 Children =
                 {
                         new Label
                 {
-                        Text="IOweYou!",
-                        VerticalOptions = LayoutOptions.CenterAndExpand,
+                        Text = "Add a job",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },
-                        new Image
+                    new Entry
                 {
-                        Source = "Work_Mexican_Work.jpg",
+                        Text = "Skriv noe her",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },
-                        new Button
+                    new Entry
                 {
-                        Text = "work",
+                        Text = "Skriv noe her OGSÅ123",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
-                        Command = new Command(() =>
-                        {
-                            _player.Load("work.mp3");
-                            _player.Play();
-                        })
                 },
-                        new Button
+                    new Button
                 {
-                        Text = "stop work",
+                        Text = "Send",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
-                        Command = new Command(() =>
-                        {
-                            _player.Stop();
-                        })
                 },
-
-                }
-
+            }
             };
 
         }

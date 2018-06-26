@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TjenesteApp.iOS", "Tjeneste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TjenesteApp.UWP", "TjenesteApp\TjenesteApp.UWP\TjenesteApp.UWP.csproj", "{29FD40B4-6E75-4306-9F29-4CB18D8EC0EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TjenesteApp", "TjenesteApp\TjenesteApp\TjenesteApp.csproj", "{5CABFA2C-AFFB-4698-A3C8-6C2679592590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TjenesteApp", "TjenesteApp\TjenesteApp\TjenesteApp.csproj", "{5CABFA2C-AFFB-4698-A3C8-6C2679592590}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
