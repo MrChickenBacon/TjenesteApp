@@ -1,1 +1,1 @@
-F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\TjenesteApp.UWP.csproj;x86
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\TjenesteApp.UWP.csproj;x86

@@ -7834,24 +7834,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Users\\Get Academy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\TjenesteApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\TjenesteApp.UWP.csproj",
       "projectName": "TjenesteApp.UWP",
-      "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\TjenesteApp.UWP.csproj",
-      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\obj\\",
+      "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\TjenesteApp.UWP.csproj",
+      "packagesPath": "C:\\Users\\Get Academy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Get Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7864,8 +7864,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
-              "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
+            "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
+              "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
             }
           }
         }

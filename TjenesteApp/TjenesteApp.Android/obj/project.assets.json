@@ -810,20 +810,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris\\.nuget\\packages\\": {}
+    "C:\\Users\\Get Academy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\TjenesteApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\TjenesteApp.Android.csproj",
       "projectName": "TjenesteApp.Android",
-      "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\TjenesteApp.Android.csproj",
-      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\TjenesteApp.Android.csproj",
+      "packagesPath": "C:\\Users\\Get Academy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Get Academy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -836,8 +836,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
-              "projectPath": "F:\\KODING\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
+            "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj": {
+              "projectPath": "C:\\Users\\Get Academy\\source\\repos\\TjenesteApp\\TjenesteApp\\TjenesteApp\\TjenesteApp.csproj"
             }
           }
         }

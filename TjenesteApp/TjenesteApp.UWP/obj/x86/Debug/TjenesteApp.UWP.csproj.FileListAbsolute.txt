@@ -903,3 +903,5 @@ F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\Xamarin.Forms.Pl
 F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\ProjectArchitectures.txt
 F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Xamarin.Essentials.dll
 F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml

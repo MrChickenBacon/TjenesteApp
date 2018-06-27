@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>ZBOOK17-CHRIS</Machine>
-    <WindowsUser>Chris</WindowsUser>
+    <Machine>DESKTOP-INHDPOB</Machine>
+    <WindowsUser>Get Academy</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=3aed6741-c3dd-49c8-85fc-d511cd14c5fc</PackageIdentityPublisher>
-    <IntermediateOutputPath>F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>DA479D734DA6D600A22425F14E66840E5BA43D95994E1A61043AECA74AED90A7</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>1BD7A0A48622835D5C87FF1B45C080095E5807CABA644E1E8920CBC8D667AAD8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8ed9dbd6-448e-4b5e-974f-bd725f16c549_1.0.0.0_x86__nnwg2s1rf5nsr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8ed9dbd6-448e-4b5e-974f-bd725f16c549_nnwg2s1rf5nsr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>8ed9dbd6-448e-4b5e-974f-bd725f16c549</RegisteredPackageID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T18:48:00.691</Modified>
+      <Modified>2018-06-27T07:26:50.108</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\TjenesteApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\TjenesteApp.UWP.exe">
       <PackagePath>entrypoint\TjenesteApp.UWP.exe</PackagePath>
-      <Modified>2018-06-26T18:47:59.992</Modified>
+      <Modified>2018-06-27T07:26:49.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -695,249 +695,249 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2018-05-16T15:28:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xam.plugin.simpleaudioplayer\1.1.0\lib\UAP10\Plugin.SimpleAudioPlayer.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xam.plugin.simpleaudioplayer\1.1.0\lib\UAP10\Plugin.SimpleAudioPlayer.Abstractions.dll">
       <PackagePath>Plugin.SimpleAudioPlayer.Abstractions.dll</PackagePath>
       <Modified>2018-04-13T10:58:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xam.plugin.simpleaudioplayer\1.1.0\lib\UAP10\Plugin.SimpleAudioPlayer.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xam.plugin.simpleaudioplayer\1.1.0\lib\UAP10\Plugin.SimpleAudioPlayer.dll">
       <PackagePath>Plugin.SimpleAudioPlayer.dll</PackagePath>
       <Modified>2018-04-13T10:58:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.essentials\0.7.0.17-preview\lib\uap10.0.16299\Xamarin.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.essentials\0.7.0.17-preview\lib\uap10.0.16299\Xamarin.Essentials.dll">
       <PackagePath>Xamarin.Essentials.dll</PackagePath>
       <Modified>2018-06-08T16:19:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2018-06-15T20:58:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP.dll">
       <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
       <Modified>2018-06-15T20:58:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.dll">
       <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
       <Modified>2018-06-15T20:58:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-06-15T20:58:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.dll">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp\bin\Debug\netstandard2.0\TjenesteApp.dll">
       <PackagePath>TjenesteApp.dll</PackagePath>
-      <Modified>2018-06-26T18:47:55.295</Modified>
+      <Modified>2018-06-27T07:26:44.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.263</Modified>
+      <Modified>2018-06-27T07:14:50.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.263</Modified>
+      <Modified>2018-06-27T07:14:50.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.265</Modified>
+      <Modified>2018-06-27T07:14:50.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.265</Modified>
+      <Modified>2018-06-27T07:14:50.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.266</Modified>
+      <Modified>2018-06-27T07:14:50.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.268</Modified>
+      <Modified>2018-06-27T07:14:50.820</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.268</Modified>
+      <Modified>2018-06-27T07:14:50.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.269</Modified>
+      <Modified>2018-06-27T07:14:50.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.270</Modified>
+      <Modified>2018-06-27T07:14:50.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.271</Modified>
+      <Modified>2018-06-27T07:14:50.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.272</Modified>
+      <Modified>2018-06-27T07:14:50.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.273</Modified>
+      <Modified>2018-06-27T07:14:50.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.274</Modified>
+      <Modified>2018-06-27T07:14:50.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.275</Modified>
+      <Modified>2018-06-27T07:14:50.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.276</Modified>
+      <Modified>2018-06-27T07:14:50.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.277</Modified>
+      <Modified>2018-06-27T07:14:50.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.278</Modified>
+      <Modified>2018-06-27T07:14:50.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.278</Modified>
+      <Modified>2018-06-27T07:14:50.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.279</Modified>
+      <Modified>2018-06-27T07:14:50.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.280</Modified>
+      <Modified>2018-06-27T07:14:50.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.281</Modified>
+      <Modified>2018-06-27T07:14:50.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.282</Modified>
+      <Modified>2018-06-27T07:14:50.835</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.283</Modified>
+      <Modified>2018-06-27T07:14:50.836</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.284</Modified>
+      <Modified>2018-06-27T07:14:50.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.285</Modified>
+      <Modified>2018-06-27T07:14:50.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.286</Modified>
+      <Modified>2018-06-27T07:14:50.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T14:18:36.287</Modified>
+      <Modified>2018-06-27T07:14:50.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-06-26T14:18:36.308</Modified>
+      <Modified>2018-06-27T07:14:50.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\TjenesteApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\TjenesteApp.UWP.xr.xml">
       <PackagePath>TjenesteApp.UWP.xr.xml</PackagePath>
-      <Modified>2018-06-26T14:18:39.316</Modified>
+      <Modified>2018-06-27T07:14:51.705</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-26T18:47:59.847</Modified>
+      <Modified>2018-06-27T07:26:49.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-06-26T18:47:59.848</Modified>
+      <Modified>2018-06-27T07:26:49.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2017-09-28T16:28:16.000</Modified>
+      <Modified>2017-09-28T15:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\AutoSuggestStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\AutoSuggestStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\AutoSuggestStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsCommandBarStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsCommandBarStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\FormsCommandBarStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsEmbeddedPageWrapper.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsEmbeddedPageWrapper.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\FormsEmbeddedPageWrapper.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsFlyout.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsFlyout.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\FormsFlyout.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsProgressBarStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsProgressBarStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\FormsProgressBarStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsTextBoxStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\FormsTextBoxStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\FormsTextBoxStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\MasterDetailControlStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\MasterDetailControlStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\MasterDetailControlStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\PageControlStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\PageControlStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\PageControlStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\Resources.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\Resources.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\Resources.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\SliderStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\SliderStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\SliderStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\TabbedPageStyle.xbf">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\TabbedPageStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.UAP\TabbedPageStyle.xbf</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chris\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Get Academy\.nuget\packages\xamarin.forms\3.1.0.583944\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-06-15T20:58:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T17:10:27.339</Modified>
+      <Modified>2018-06-27T07:22:00.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\KODING\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Core\TjenesteApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Get Academy\source\repos\TjenesteApp\TjenesteApp\TjenesteApp.UWP\bin\x86\Debug\Core\TjenesteApp.UWP.exe">
       <PackagePath>TjenesteApp.UWP.exe</PackagePath>
-      <Modified>2018-06-26T18:48:00.687</Modified>
+      <Modified>2018-06-27T07:26:50.103</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

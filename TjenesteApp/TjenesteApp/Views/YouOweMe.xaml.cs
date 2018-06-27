@@ -26,6 +26,14 @@ namespace TjenesteApp.Views
 
         private void YouOwePage1()
         {
+            var button1 = new Button
+            {
+                Text = "Push me",
+                HorizontalOptions = LayoutOptions.CenterAndExpand,
+            };
+
+            button1.Command = new Command(() => { PressMeButton_Clicked(button1, null); });
+
             Content = new StackLayout()
             {
                 Margin = 20,
@@ -52,24 +60,10 @@ namespace TjenesteApp.Views
                         Text = "Send",
                         HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },
-                    new Button
-                {
-                        Text = "Push me",
-                        Command = new Command(() =>
-                          {
-}),
-                        HorizontalOptions = LayoutOptions.CenterAndExpand,
-                },
+                    
+                    button1,
 
-                    new Label
-                {                        
-                        Text = $"{counter}",
-                },
-
-
-
-
-
+                    
                 }
             };
         }        
